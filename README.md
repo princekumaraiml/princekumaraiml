@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! I'm Prince 👋
 
-<!--
-**princekumaraiml/princekumaraiml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **First-Year Computer Science & Engineering student specializing in AI & Machine Learning** at SRM Institute of Science and Technology, Kattankulathur. 
 
-Here are some ideas to get you started:
+Currently, I am focusing on mastering programming fundamentals, learning essential developer workflows, and building a solid core in Computer Science to prepare for advanced AI/ML research and engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus & Learning Journey
+
+- 📚 **Academic Focus:** First-Year CSE (AI & ML) at SRM KTR
+- 💻 **Languages in Progress:** C, Python
+- 🛠️ **Dev Environment:** VS Code, Git, GitHub, Jupyter Notebooks, Google Colab, Anaconda
+- 🎯 **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science & Predictive Analytics
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** `C` | `Python`
+- **Developer Tools:** `Git` | `GitHub` | `VS Code`
+- **Data & ML Platforms:** `Jupyter` | `Google Colab` | `Anaconda`
+
+---
